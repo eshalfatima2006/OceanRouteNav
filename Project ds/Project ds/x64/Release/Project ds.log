@@ -1,0 +1,46 @@
+﻿  BookingSystem.cpp
+  DataLoader.cpp
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\BookingSystem.cpp(130,31): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+  DockQueue.cpp
+  GUIInputHandler.cpp
+  GUIInputHandler.h
+  GUIRenderer.cpp
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(38,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(38,41): warning C4244:         with
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(38,41): warning C4244:         [
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(38,41): warning C4244:             T=float
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(38,41): warning C4244:         ]
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(39,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(39,48): warning C4244:         with
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(39,48): warning C4244:         [
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(39,48): warning C4244:             T=float
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(39,48): warning C4244:         ]
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(39,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(39,41): warning C4244:         with
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(39,41): warning C4244:         [
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(39,41): warning C4244:             T=float
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(39,41): warning C4244:         ]
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(40,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(40,44): warning C4244:         with
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(40,44): warning C4244:         [
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(40,44): warning C4244:             T=float
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(40,44): warning C4244:         ]
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(289,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(292,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(299,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\GUIRenderer.cpp(328,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Math Utilities.cpp
+  PathFinder.cpp
+  PortLayout.cpp
+  PriorityQueue.cpp
+  RouteUtilities.cpp
+  updata_port_charges.cpp
+  UserPreferences.cpp
+Project ds\x64\Release\GUIInputHandler.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  492 of 503 functions (97.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project ds.vcxproj -> C:\Users\Pc\OneDrive - FAST National University\Documents\DS\Project ds\x64\Release\Project ds.exe
